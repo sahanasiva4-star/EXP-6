@@ -34,8 +34,6 @@ CIRCUIT DIAGRAM
 
 <img width="831" height="632" alt="image" src="https://github.com/user-attachments/assets/645b6a50-1848-43a7-b95a-170259a8f752" />
 
-<img width="644" height="517" alt="image" src="https://github.com/user-attachments/assets/2e0c9a89-8633-44b5-b7fb-4d4364c82acd" />
-
 <img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/83eefef2-d7a4-4826-af7a-1536c021bf9f" />
 
 <img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/a9cef887-c141-4464-b403-264c0427a7b9" />
